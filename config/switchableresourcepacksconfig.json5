@@ -1,0 +1,79 @@
+{
+	// Should all criteria be automatically revoked next time the command is executed.
+	"autoRevoke": false,
+	// List of all the resourcepacks configurations to use
+	"packs": [
+		{
+			"packname": "menu",
+			"url": "https://dbtderpbox.github.io/LEM-Menu-Resources/zip/resources1.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Legacy Edition Minigames requires a resource pack to function properly!"
+		},
+		{
+			"packname": "battle-vanilla",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/vanilla.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Please accept to preload resources!"
+		},
+		{
+			"packname": "battle-vanilla-optifine",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/vanilla.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Please accept to preload resources!"
+		},
+		{
+			"packname": "battle-plastic",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/plastic.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Please accept to preload resources!"
+		},
+		{
+			"packname": "battle-plastic-optifine",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/plastic.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Please accept to preload resources!"
+		},
+		{
+			"packname": "battle-fantasy",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/fantasy.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Please accept to preload resources!"
+		},
+		{
+			"packname": "battle-fantasy-optifine",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/fantasy.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Please accept to preload resources!"
+		},
+		{
+			"packname": "battle-city",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/city.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Please accept to preload resources!"
+		},
+		{
+			"packname": "battle-city-optifine",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/city.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Please accept to preload resources!"
+		}
+	]
+}
