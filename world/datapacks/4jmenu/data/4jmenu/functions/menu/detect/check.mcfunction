@@ -1,6 +1,6 @@
 ##Check for walk movement
 #Run if hold timer is max
-execute as @s[scores={4j.walk=1..,4j.hold=10..}] run function 4jmenu:menu/detect/run
+execute as @s[scores={4j.hold=10..}] run function 4jmenu:menu/detect/run
 #Increase hold timer if below max
 execute as @s[scores={4j.walk=1..,4j.hold=..10}] run function 4jmenu:menu/detect/hold
 

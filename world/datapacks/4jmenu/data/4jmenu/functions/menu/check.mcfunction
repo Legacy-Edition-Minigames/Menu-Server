@@ -2,7 +2,7 @@
 execute as @a[tag=!nomenu] at @s run function 4jmenu:menu/detect/check
 
 ##Increase hold timer
-scoreboard players add @a[scores={4j.hold=..10}] 4j.hold 1
+scoreboard players add @a[scores={4j.hold=..10}] 4j.hold 4
 
 ##Teleport
 execute as @a[tag=!nomenu] at @s rotated as @e[type=armor_stand,tag=panorama,limit=1,sort=nearest] run tp @s ~ ~ ~ ~ ~
