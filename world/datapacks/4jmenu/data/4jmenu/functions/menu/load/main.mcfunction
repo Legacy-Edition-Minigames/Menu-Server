@@ -1,6 +1,9 @@
 ##Start menu check
 function 4jmenu:menu/check
 
+##Start panorama check
+function 4jmenu:menu/panorama
+
 ##Start music
 scoreboard players set @s 4j.mustimer 1
 
