@@ -13,7 +13,7 @@
 		},
 		{
 			"packname": "battle-vanilla",
-			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/vanilla.zip",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R19/vanilla.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -21,7 +21,7 @@
 		},
 		{
 			"packname": "battle-vanilla-optifine",
-			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/vanilla.zip",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R19/vanilla.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -29,7 +29,7 @@
 		},
 		{
 			"packname": "battle-plastic",
-			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/plastic.zip",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R19/plastic.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -37,7 +37,7 @@
 		},
 		{
 			"packname": "battle-plastic-optifine",
-			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/plastic.zip",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R19/plastic.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -45,7 +45,7 @@
 		},
 		{
 			"packname": "battle-fantasy",
-			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/fantasy.zip",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R19/fantasy.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -53,7 +53,7 @@
 		},
 		{
 			"packname": "battle-fantasy-optifine",
-			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/fantasy.zip",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R19/fantasy.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -61,7 +61,7 @@
 		},
 		{
 			"packname": "battle-city",
-			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/city.zip",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R19/city.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -69,7 +69,23 @@
 		},
 		{
 			"packname": "battle-city-optifine",
-			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/city.zip",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R19/city.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Please accept to preload resources!"
+		},
+		{
+			"packname": "battle-greek",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R19/greek-mythology.zip",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Please accept to preload resources!"
+		},
+		{
+			"packname": "battle-greek-optifine",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R19/greek-mythology.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,

@@ -24,3 +24,9 @@ execute as @s[scores={4j.pack=6}] run loadresource battle-fantasy-optifine
 execute as @s[scores={4j.pack=7}] run loadresource battle-city
 #Optifine
 execute as @s[scores={4j.pack=8}] run loadresource battle-city-optifine
+
+##Load Greek Mythology
+#Standard
+execute as @s[scores={4j.pack=9}] run loadresource battle-greek
+#Optifine
+execute as @s[scores={4j.pack=10}] run loadresource battle-greek-optifine
