@@ -6,11 +6,11 @@ This is a frontend for connecting to the Legacy Edition Minigames ports/remakes 
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) ![Powered By Nostalgia](https://img.shields.io/badge/Powered_by-Nostalgia-e49454?style=for-the-badge)
 
-If you just want to play the game, you can connect to `leb.derpbox.dev` in multiplayer on Java Edition.
+If you just want to play the game, you can connect to `minigames.derpbox.dev` in multiplayer on Java Edition.
 
-If you want to create your own LEB server, keep reading.
+If you want to create your own LEM server, keep reading.
 
-If you do make your own LEB server, please at least credit me.
+If you do make your own LEM server, please at least credit me.
 
 ### Preperation
 
@@ -56,11 +56,7 @@ If you do make your own LEB server, please at least credit me.
 
 ### Notices
 
-This project is far from completion! Do not expect too much in its current state!
-
-Optifine has issues with the default pack, please [read this](https://github.com/DBTDerpbox/Legacy-Edition-Battle/issues/4) for info on a fix.
-
-Legacy Edition Battle is currently designed for [Minecraft Java Edition 1.17.1](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-17-1)
+Legacy Edition Minigames Menu Server is currently designed for [Minecraft Java Edition 1.17.1](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-17-1)
 
 ### Credits
 
