@@ -5,7 +5,7 @@ tag @s remove resourceloaded
 tag @s remove nomenu
 
 ##Disable collision
-team join nocol
+team join nocol @s
 
 ##Set default gamemode
 gamemode adventure @s

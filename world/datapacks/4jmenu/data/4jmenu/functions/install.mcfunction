@@ -36,7 +36,7 @@ scoreboard objectives add 4j.timer dummy
 
 ##Nocollision team
 #Create
-team add noclol
+team add nocol
 #Disable collision
 team modify nocol collisionRule never
 #Disable see friendly invisibles
