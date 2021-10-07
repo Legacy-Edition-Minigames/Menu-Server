@@ -4,6 +4,9 @@ tag @s remove battlepack
 tag @s remove resourceloaded
 tag @s remove nomenu
 
+##Disable collision
+team join nocol
+
 ##Set default gamemode
 gamemode adventure @s
 

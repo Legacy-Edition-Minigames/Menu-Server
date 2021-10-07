@@ -7,6 +7,9 @@ tag @s remove nomenu
 ##Reset music timer
 scoreboard players set @s 4j.mustimer 6
 
+##Reset jump score
+scoreboard players reset @s 4j.jump
+
 ##Reload main pack
 #Tag
 tag @s add relogtimer

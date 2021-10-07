@@ -5,10 +5,7 @@ execute as @a[tag=!nomenu] at @s run function 4jmenu:menu/detect/check
 scoreboard players add @a[scores={4j.hold=..10}] 4j.hold 1
 
 ##Teleport
-#execute as @a[tag=!nomenu] at @s rotated as @e[type=armor_stand,tag=panorama,limit=1,sort=nearest] run tp @s ~ ~ ~ ~ ~
-
-##Move Panorama
-execute as @e[type=armor_stand,tag=panorama] at @s run tp @s ~ ~ ~ ~0.1 ~
+execute as @a[tag=!nomenu] unless entity @s[y_rotation=0] run tp @s 0 4 0 0 0
 
 ##Set title times
 title @a[tag=!nomenu] times 0 10 1
@@ -18,6 +15,8 @@ title @a[tag=!nomenu] times 0 10 1
 effect give @a saturation 1 0 true
 #Invis
 effect give @a invisibility 1 0 true
+#Blindness (to prevent sprinting)
+effect give @a[tag=!nomenu] blindness 2 0 true
 
 ##Show GUI
 execute as @a[tag=!nomenu] run function 4jmenu:menu/gui/run

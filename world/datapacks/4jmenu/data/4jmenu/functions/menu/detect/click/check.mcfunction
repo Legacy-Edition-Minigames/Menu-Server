@@ -10,8 +10,14 @@ execute as @s[tag=click,scores={4j.tab=2}] run function 4jmenu:menu/detect/click
 ##Error: Not available
 execute as @s[tag=click,scores={4j.tab=-1}] run function 4jmenu:menu/detect/click/error/notavailable
 
+##"Error": Not available
+execute as @s[tag=click,scores={4j.tab=-2}] run function 4jmenu:menu/detect/click/error/keyboardnotice
+
 ##Teleport player back
-tp @s @e[type=armor_stand,tag=panorama,limit=1,sort=nearest]
+tp @s 0 4 0 0 0
 
 ##Play sound
 playsound ui.button.click master @s ~ ~ ~ 0.25
+
+##Reset score
+scoreboard players reset @s 4j.jump

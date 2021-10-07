@@ -1,11 +1,11 @@
-##Find coordinate
-execute as @e[tag=movecheck,sort=nearest,limit=1] run function 4jmenu:menu/detect/coordinate
-
 ##Detect movement key
-function 4jmenu:menu/detect/direction/run
+execute as @e[tag=movecheck,sort=nearest,limit=1] run function 4jmenu:menu/detect/coordinate
 
 ##Apply movement to menu
 function 4jmenu:menu/detect/select/run
+
+##Teleport player back
+execute as @s[type=marker] run tp @p 0 4 0 0 0
 
 ##Clear tags
 function 4jmenu:menu/detect/rmtags

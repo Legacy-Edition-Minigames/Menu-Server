@@ -8,3 +8,4 @@ execute as @a[scores={4j.tab=3}] run function 4jmenu:menu/gui/options
 
 ##Show errors
 execute as @a[scores={4j.tab=-1}] run function 4jmenu:menu/gui/error/notavailable
+execute as @a[scores={4j.tab=-2}] run function 4jmenu:menu/gui/error/keyboardnotice
