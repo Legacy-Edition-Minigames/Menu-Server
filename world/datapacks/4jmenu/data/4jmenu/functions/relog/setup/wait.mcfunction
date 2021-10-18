@@ -22,11 +22,11 @@ tag @s add relogtimer
 ##Revoke resourcepack loading advancements
 function 4jmenu:relog/setup/advancementreset
 
+##Set resourcepack delay
+scoreboard players set @s 4j.timer 3
+
 ##Run timer
 function 4jmenu:relog/timer/check
 
 ##Load pack install menu
 function 4jmenu:menu/load/wait
-
-##Load resource pack
-loadresource menu

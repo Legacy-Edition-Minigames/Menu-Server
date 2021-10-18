@@ -1,5 +1,8 @@
 ##Decrease timer
-#scoreboard players remove @a[scores={4j.relogtimer=0..}] 4j.relogtimer 1
+scoreboard players remove @a[scores={4j.timer=0..}] 4j.timer 1
+
+##Load resource pack
+execute as @a[scores={4j.timer=0}] run loadresource menu
 
 ##Send to game once timer ends
 execute as @a[tag=relogtimer,advancements={4jmenu:resource/finished=true}] run function 4jmenu:relog/setup/global
