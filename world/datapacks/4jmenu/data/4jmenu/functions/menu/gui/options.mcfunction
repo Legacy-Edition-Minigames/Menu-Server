@@ -1,2 +1,3 @@
 ##Display menu
-title @s actionbar {"text":"1","font":"4jmenu:menu/options"}
+title @s subtitle {"text":"1","font":"4jmenu:menu/options"}
+title @s title ""

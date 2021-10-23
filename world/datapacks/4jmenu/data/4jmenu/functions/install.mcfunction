@@ -41,3 +41,9 @@ team add nocol
 team modify nocol collisionRule never
 #Disable see friendly invisibles
 team modify nocol seeFriendlyInvisibles false
+
+##Background
+#Create
+bossbar add background {"text":"1","font":"4jmenu:background"}
+#Enable
+bossbar set minecraft:background visible true
