@@ -8,10 +8,10 @@ execute as @s[tag=click,scores={4j.tab=1}] run function 4jmenu:menu/detect/click
 execute as @s[tag=click,scores={4j.tab=2}] run function 4jmenu:menu/detect/click/preload
 
 ##Error: Not available
-execute as @s[tag=click,scores={4j.tab=-1}] run function 4jmenu:menu/detect/click/error/notavailable
+execute as @s[tag=click,scores={4j.tab=-1}] run function 4jmenu:menu/detect/click/notice/notavailable
 
-##"Error": Not available
-execute as @s[tag=click,scores={4j.tab=-2}] run function 4jmenu:menu/detect/click/error/keyboardnotice
+##Notice: Not available
+execute as @s[tag=click,scores={4j.tab=-2}] run function 4jmenu:menu/detect/click/notice/keyboardnotice
 
 ##Teleport player back
 tp @s 0 4 0 0 0
