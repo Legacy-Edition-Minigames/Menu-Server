@@ -36,3 +36,9 @@ execute as @s[scores={4j.pack=10}] run loadresource battle-greek-optifine
 execute as @s[scores={4j.pack=11}] run loadresource battle-steampunk
 #Optifine
 execute as @s[scores={4j.pack=12}] run loadresource battle-steampunk-optifine
+
+##Load Halloween
+#Standard
+execute as @s[scores={4j.pack=13}] run loadresource battle-halloween
+#Optifine
+execute as @s[scores={4j.pack=14}] run loadresource battle-halloween-optifine
