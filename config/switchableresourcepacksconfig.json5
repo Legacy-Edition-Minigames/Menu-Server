@@ -5,7 +5,7 @@
 	"packs": [
 		{
 			"packname": "menu",
-			"url": "https://github.com/DBTDerpbox/LEM-Menu-Resources/blob/zip/zip/resources4.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEM-Menu-Resources/zip/resources4.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -13,7 +13,7 @@
 		},
 		{
 			"packname": "battle-vanilla",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R24/vanilla.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R24/vanilla.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -21,7 +21,7 @@
 		},
 		{
 			"packname": "battle-vanilla-optifine",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R24/vanilla.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R24/vanilla.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -29,7 +29,7 @@
 		},
 		{
 			"packname": "battle-plastic",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R24/plastic.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R24/plastic.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -37,7 +37,7 @@
 		},
 		{
 			"packname": "battle-plastic-optifine",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R24/plastic.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R24/plastic.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -45,7 +45,7 @@
 		},
 		{
 			"packname": "battle-fantasy",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R24/fantasy.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R24/fantasy.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -53,7 +53,7 @@
 		},
 		{
 			"packname": "battle-fantasy-optifine",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R24/fantasy.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R24/fantasy.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -61,7 +61,7 @@
 		},
 		{
 			"packname": "battle-city",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R24/city.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R24/city.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -69,7 +69,7 @@
 		},
 		{
 			"packname": "battle-city-optifine",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R24/city.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R24/city.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -77,7 +77,7 @@
 		},
 		{
 			"packname": "battle-greek",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R24/greek-mythology.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R24/greek-mythology.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -85,7 +85,7 @@
 		},
 		{
 			"packname": "battle-greek-optifine",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R24/greek-mythology.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R24/greek-mythology.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -93,7 +93,7 @@
 		},
 		{
 			"packname": "battle-steampunk",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R24/steampunk.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/standard/R24/steampunk.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -101,7 +101,7 @@
 		},
 		{
 			"packname": "battle-steampunk-optifine",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R24/steampunk.zip?raw=true",
+			"url": "https://dbtderpbox.github.io/LEB-Resources/zip/optifine/R24/steampunk.zip",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
