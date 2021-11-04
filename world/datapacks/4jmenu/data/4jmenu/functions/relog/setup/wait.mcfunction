@@ -2,7 +2,9 @@
 tag @s remove battletimer
 tag @s remove battlepack
 tag @s remove resourceloaded
-tag @s remove nomenu
+
+##Disable menu
+tag @s add nomenu
 
 ##Disable collision
 team join nocol @s
