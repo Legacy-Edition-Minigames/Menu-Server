@@ -64,8 +64,6 @@ Minecraft - [Mojang Studios](www.mojang.com)
 
 Legacy Editions - [4J Studios](https://www.4jstudios.com/)
 
-Tutorial World Conversion - [The Minecraft Architect](https://www.youtube.com/watch?v=pFjJfZlTmCI)
-
 Switchable Resource Packs - [Kyrptonaught](https://github.com/kyrptonaught)
 
 Velocity Server Switch - [Kyrptonaught](https://github.com/kyrptonaught)
