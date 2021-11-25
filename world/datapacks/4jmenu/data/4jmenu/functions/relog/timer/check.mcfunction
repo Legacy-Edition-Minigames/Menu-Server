@@ -2,7 +2,7 @@
 scoreboard players remove @a[scores={4j.timer=0..}] 4j.timer 1
 
 ##Load resource pack
-execute as @a[scores={4j.timer=0}] run loadresource menu
+execute as @a[scores={4j.timer=0},advancements={4jmenu:resource/started=false}] run function 4jmenu:relog/timer/loadresource
 
 ##Send to game once timer ends
 execute as @a[tag=relogtimer,advancements={4jmenu:resource/finished=true}] run function 4jmenu:relog/setup/global
