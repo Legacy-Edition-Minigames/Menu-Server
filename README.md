@@ -6,7 +6,7 @@ This is a frontend for connecting to the Legacy Edition Minigames ports/remakes 
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) ![Powered By Nostalgia](https://img.shields.io/badge/Powered_by-Nostalgia-e49454?style=for-the-badge)
 
-If you just want to play the game, you can connect to `minigames.derpbox.dev` in multiplayer on Java Edition.
+If you just want to play the game, you can connect to `minigames.derpbox.xyz` in multiplayer on Java Edition.
 
 If you want to create your own LEM server, keep reading.
 
