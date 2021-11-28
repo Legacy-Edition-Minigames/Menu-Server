@@ -108,6 +108,22 @@
 			"message": "Please accept to preload resources!"
 		},
 		{
+			"packname": "battle-chinese",
+			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R24/chinese-mythology.zip?raw=true",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "This map requires a custom texture pack!"
+		},
+		{
+			"packname": "battle-chinese-optifine",
+			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R24/chinese-mythology.zip?raw=true",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "This map requires a custom texture pack!"
+		},
+		{
 			"packname": "battle-halloween",
 			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R24/halloween.zip?raw=true",
 			"hash": "",

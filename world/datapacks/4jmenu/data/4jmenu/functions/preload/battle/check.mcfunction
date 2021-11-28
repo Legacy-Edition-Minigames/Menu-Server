@@ -5,7 +5,7 @@ execute as @a[tag=!resourceloaded,tag=battlepack,tag=!battletimer,advancements={
 #Message
 execute as @a[tag=battlepack,tag=!battletimer] run title @s title "Loading resources..."
 #Timer
-execute as @a[tag=battlepack,tag=!battletimer] run title @s subtitle ["",{"score":{"name":"@s","objective":"4j.pack"}},"/14"]
+execute as @a[tag=battlepack,tag=!battletimer] run title @s subtitle ["",{"score":{"name":"@s","objective":"4j.pack"}},"/16"]
 
 ##Loop
 schedule function 4jmenu:preload/battle/check 1s
