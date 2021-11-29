@@ -48,3 +48,9 @@ execute as @s[scores={4j.pack=14}] run loadresource battle-chinese-optifine
 execute as @s[scores={4j.pack=15}] run loadresource battle-halloween
 #Optifine
 execute as @s[scores={4j.pack=16}] run loadresource battle-halloween-optifine
+
+##Load Festive
+#Standard
+execute as @s[scores={4j.pack=17}] run loadresource battle-festive
+#Optifine
+execute as @s[scores={4j.pack=18}] run loadresource battle-festive-optifine
