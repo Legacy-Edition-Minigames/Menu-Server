@@ -5,7 +5,10 @@ tag @s add click
 execute as @s[tag=click,scores={4j.tab=1}] run function 4jmenu:menu/detect/click/join
 
 ##Preload
-execute as @s[tag=click,scores={4j.tab=2}] run function 4jmenu:menu/detect/click/preload
+#Main
+execute as @s[tag=click,scores={4j.tab=2}] run function 4jmenu:menu/detect/click/preload/main
+#Battle: Optifine check
+execute as @s[tag=click,scores={4j.tab=4}] run function 4jmenu:menu/detect/click/preload/battle
 
 ##Error: Not available
 execute as @s[tag=click,scores={4j.tab=-1}] run function 4jmenu:menu/detect/click/notice/notavailable

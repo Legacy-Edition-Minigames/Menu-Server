@@ -7,5 +7,8 @@ tag @s add battletimer
 ##Set timer
 scoreboard players set @s 4j.timer 6
 
+##Set tab
+scoreboard players set @s 4j.tab 2
+
 ##Run timer
 function 4jmenu:preload/battle/timer/run
