@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "4jmenu:resource/finished": {
+    "criteria": {
+      "custom": "2021-12-24 19:15:05 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2021-10-06 13:08:28 -0500"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-10-06 13:08:28 -0500"
+    },
+    "done": true
+  },
+  "4jmenu:config/panscale/is_set": {
+    "criteria": {
+      "requirement": "2021-12-23 19:11:44 -0600"
     },
     "done": true
   },
@@ -176,6 +188,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-10-06 13:16:57 -0500"
+    },
+    "done": true
+  },
+  "4jmenu:config/panscale/2": {
+    "criteria": {
+      "requirement": "2021-12-24 19:15:17 -0600"
     },
     "done": true
   },
