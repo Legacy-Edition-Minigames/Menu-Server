@@ -3,15 +3,15 @@ panfile = open("world/datapacks/4jmenu/data/4jmenu/functions/menu/panorama/compi
 
 ##Amount of frames to use
 #framecount = 1550 #scale 1
-#framecount = 1537 #scale 2
-#framecount = 2049 #scale 3
-framecount = 3070 #scale 4
+#framecount = 1550 #scale 2
+#framecount = 2076 #scale 3
+framecount = 3127 #scale 4
 currentframe = 0
 
 while currentframe < framecount:
     panfile.write("execute if score #Panorama.scale.4 4j.panorama matches ")
     panfile.write(str(currentframe))
-    panfile.write(" run bossbar set minecraft:panorama/day/69/1 name {\"text\":\"")
+    panfile.write(" run bossbar set minecraft:panorama/day/69/4 name {\"text\":\"")
     print("Writing Frame: ",currentframe,"/",framecount)
     writeframe = currentframe
     while writeframe < framecount:
