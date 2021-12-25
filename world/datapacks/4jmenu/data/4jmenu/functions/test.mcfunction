@@ -1,0 +1,1 @@
+bossbar set minecraft:panorama/day/69/1 name {"text":"4\uF8011\uF8012\uF8013\uF8014\uF8011\uF82E\uF82E\uF82E\uF82E\uF82E\uF82E\uF82E\uF82E\uF82E\uF82E\uF82E\uF82B\uF82A","font":"4jmenu:panorama/69/day"}

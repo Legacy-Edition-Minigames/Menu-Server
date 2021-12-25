@@ -1,3 +1,6 @@
+##Render panorama
+function 4jmenu:menu/panorama/check
+
 ##Detect menu movement
 execute as @a[tag=!nomenu] at @s run function 4jmenu:menu/detect/check
 

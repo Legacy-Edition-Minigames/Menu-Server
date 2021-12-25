@@ -10,6 +10,14 @@ execute as @s[tag=click,scores={4j.tab=2}] run function 4jmenu:menu/detect/click
 #Battle: Optifine check
 execute as @s[tag=click,scores={4j.tab=4}] run function 4jmenu:menu/detect/click/preload/battle
 
+##Options
+#Main
+execute as @s[tag=click,scores={4j.tab=3}] run function 4jmenu:menu/detect/click/options/main
+#Panorama: Main
+execute as @s[tag=click,scores={4j.tab=5}] run function 4jmenu:menu/detect/click/options/panorama/main
+#Panorama: Scale
+execute as @s[tag=click,scores={4j.tab=6}] run function 4jmenu:menu/detect/click/options/panorama/scale
+
 ##Error: Not available
 execute as @s[tag=click,scores={4j.tab=-1}] run function 4jmenu:menu/detect/click/notice/notavailable
 
@@ -21,6 +29,9 @@ tp @s 0 4 0 0 0
 
 ##Play sound
 playsound ui.button.click master @s ~ ~ ~ 0.25
+
+##Set selection to 1
+scoreboard players set @s 4j.selection 1
 
 ##Reset score
 scoreboard players reset @s 4j.jump

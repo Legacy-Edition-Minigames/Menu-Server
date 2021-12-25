@@ -31,8 +31,11 @@ scoreboard objectives add 4j.hold dummy
 ##Preloading pack count
 scoreboard objectives add 4j.pack dummy
 
-##Preloader imer
+##Preloader timer
 scoreboard objectives add 4j.timer dummy
+
+##Panorama timer
+scoreboard objectives add 4j.panorama dummy
 
 ##Nocollision team
 #Create
@@ -42,8 +45,13 @@ team modify nocol collisionRule never
 #Disable see friendly invisibles
 team modify nocol seeFriendlyInvisibles false
 
-##Background
-#Create
-bossbar add background {"text":"1","font":"4jmenu:background"}
-#Enable
-bossbar set minecraft:background visible true
+##Panoramas
+#TU69
+bossbar add panorama/day/69/1 ""
+bossbar set minecraft:panorama/day/69/1 visible true
+bossbar add panorama/day/69/2 ""
+bossbar set minecraft:panorama/day/69/2 visible true
+bossbar add panorama/day/69/3 ""
+bossbar set minecraft:panorama/day/69/3 visible true
+bossbar add panorama/day/69/4 ""
+bossbar set minecraft:panorama/day/69/4 visible true
