@@ -1,0 +1,21 @@
+{
+  "4jmenu:config/panscale/1": {
+    "criteria": {
+      "requirement": "2022-01-19 01:48:07 -0600"
+    },
+    "done": true
+  },
+  "4jmenu:config/default_set": {
+    "criteria": {
+      "requirement": "2022-01-19 01:47:51 -0600"
+    },
+    "done": true
+  },
+  "4jmenu:config/panorama/69/day": {
+    "criteria": {
+      "requirement": "2022-01-19 01:47:51 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
+}
