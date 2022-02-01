@@ -17,6 +17,10 @@ execute as @s[tag=click,scores={4j.tab=3}] run function 4jmenu:menu/detect/click
 execute as @s[tag=click,scores={4j.tab=5}] run function 4jmenu:menu/detect/click/options/panorama/main
 #Panorama: Scale
 execute as @s[tag=click,scores={4j.tab=6}] run function 4jmenu:menu/detect/click/options/panorama/scale
+#Panorama: background/main
+execute as @s[tag=click,scores={4j.tab=7}] run function 4jmenu:menu/detect/click/options/panorama/background/main
+#Panorama: background/choose
+execute as @s[tag=click,scores={4j.tab=8}] run function 4jmenu:menu/detect/click/options/panorama/background/choose
 
 ##Error: Not available
 execute as @s[tag=click,scores={4j.tab=-1}] run function 4jmenu:menu/detect/click/notice/notavailable

@@ -17,6 +17,10 @@ execute as @s[scores={4j.tab=3}] run function 4jmenu:menu/detect/select/selectio
 execute as @s[scores={4j.tab=5}] run function 4jmenu:menu/detect/select/selection/options/panorama/main
 #Options tab (Panorama scale)
 execute as @s[scores={4j.tab=6}] run function 4jmenu:menu/detect/select/selection/options/panorama/scale
+#Options tab (Panorama/background/main)
+execute as @s[scores={4j.tab=7}] run function 4jmenu:menu/detect/select/selection/options/panorama/background/main
+#Options tab (Panorama/background/choose)
+execute as @s[scores={4j.tab=8}] run function 4jmenu:menu/detect/select/selection/options/panorama/background/choose
 
 ##Play sound
 playsound 4jmenu:sound.menu.focus master @s ~ ~ ~

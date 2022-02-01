@@ -55,3 +55,130 @@ bossbar add panorama/day/69/3 ""
 bossbar set minecraft:panorama/day/69/3 visible true
 bossbar add panorama/day/69/4 ""
 bossbar set minecraft:panorama/day/69/4 visible true
+bossbar add panorama/night/69/1 ""
+bossbar set minecraft:panorama/night/69/1 visible true
+bossbar add panorama/night/69/2 ""
+bossbar set minecraft:panorama/night/69/2 visible true
+bossbar add panorama/night/69/3 ""
+bossbar set minecraft:panorama/night/69/3 visible true
+bossbar add panorama/night/69/4 ""
+bossbar set minecraft:panorama/night/69/4 visible true
+#TU46
+bossbar add panorama/day/46/1 ""
+bossbar set minecraft:panorama/day/46/1 visible true
+bossbar add panorama/day/46/2 ""
+bossbar set minecraft:panorama/day/46/2 visible true
+bossbar add panorama/day/46/3 ""
+bossbar set minecraft:panorama/day/46/3 visible true
+bossbar add panorama/day/46/4 ""
+bossbar set minecraft:panorama/day/46/4 visible true
+bossbar add panorama/night/46/1 ""
+bossbar set minecraft:panorama/night/46/1 visible true
+bossbar add panorama/night/46/2 ""
+bossbar set minecraft:panorama/night/46/2 visible true
+bossbar add panorama/night/46/3 ""
+bossbar set minecraft:panorama/night/46/3 visible true
+bossbar add panorama/night/46/4 ""
+bossbar set minecraft:panorama/night/46/4 visible true
+#TU31
+bossbar add panorama/day/31/1 ""
+bossbar set minecraft:panorama/day/31/1 visible true
+bossbar add panorama/day/31/2 ""
+bossbar set minecraft:panorama/day/31/2 visible true
+bossbar add panorama/day/31/3 ""
+bossbar set minecraft:panorama/day/31/3 visible true
+bossbar add panorama/day/31/4 ""
+bossbar set minecraft:panorama/day/31/4 visible true
+bossbar add panorama/night/31/1 ""
+bossbar set minecraft:panorama/night/31/1 visible true
+bossbar add panorama/night/31/2 ""
+bossbar set minecraft:panorama/night/31/2 visible true
+bossbar add panorama/night/31/3 ""
+bossbar set minecraft:panorama/night/31/3 visible true
+bossbar add panorama/night/31/4 ""
+bossbar set minecraft:panorama/night/31/4 visible true
+#TU19
+bossbar add panorama/day/19/1 ""
+bossbar set minecraft:panorama/day/19/1 visible true
+bossbar add panorama/day/19/2 ""
+bossbar set minecraft:panorama/day/19/2 visible true
+bossbar add panorama/day/19/3 ""
+bossbar set minecraft:panorama/day/19/3 visible true
+bossbar add panorama/day/19/4 ""
+bossbar set minecraft:panorama/day/19/4 visible true
+bossbar add panorama/night/19/1 ""
+bossbar set minecraft:panorama/night/19/1 visible true
+bossbar add panorama/night/19/2 ""
+bossbar set minecraft:panorama/night/19/2 visible true
+bossbar add panorama/night/19/3 ""
+bossbar set minecraft:panorama/night/19/3 visible true
+bossbar add panorama/night/19/4 ""
+bossbar set minecraft:panorama/night/19/4 visible true
+#TU14
+bossbar add panorama/day/14/1 ""
+bossbar set minecraft:panorama/day/14/1 visible true
+bossbar add panorama/day/14/2 ""
+bossbar set minecraft:panorama/day/14/2 visible true
+bossbar add panorama/day/14/3 ""
+bossbar set minecraft:panorama/day/14/3 visible true
+bossbar add panorama/day/14/4 ""
+bossbar set minecraft:panorama/day/14/4 visible true
+bossbar add panorama/night/14/1 ""
+bossbar set minecraft:panorama/night/14/1 visible true
+bossbar add panorama/night/14/2 ""
+bossbar set minecraft:panorama/night/14/2 visible true
+bossbar add panorama/night/14/3 ""
+bossbar set minecraft:panorama/night/14/3 visible true
+bossbar add panorama/night/14/4 ""
+bossbar set minecraft:panorama/night/14/4 visible true
+#TU9
+bossbar add panorama/day/9/1 ""
+bossbar set minecraft:panorama/day/9/1 visible true
+bossbar add panorama/day/9/2 ""
+bossbar set minecraft:panorama/day/9/2 visible true
+bossbar add panorama/day/9/3 ""
+bossbar set minecraft:panorama/day/9/3 visible true
+bossbar add panorama/day/9/4 ""
+bossbar set minecraft:panorama/day/9/4 visible true
+bossbar add panorama/night/9/1 ""
+bossbar set minecraft:panorama/night/9/1 visible true
+bossbar add panorama/night/9/2 ""
+bossbar set minecraft:panorama/night/9/2 visible true
+bossbar add panorama/night/9/3 ""
+bossbar set minecraft:panorama/night/9/3 visible true
+bossbar add panorama/night/9/4 ""
+bossbar set minecraft:panorama/night/9/4 visible true
+#TU5
+bossbar add panorama/day/5/1 ""
+bossbar set minecraft:panorama/day/5/1 visible true
+bossbar add panorama/day/5/2 ""
+bossbar set minecraft:panorama/day/5/2 visible true
+bossbar add panorama/day/5/3 ""
+bossbar set minecraft:panorama/day/5/3 visible true
+bossbar add panorama/day/5/4 ""
+bossbar set minecraft:panorama/day/5/4 visible true
+bossbar add panorama/night/5/1 ""
+bossbar set minecraft:panorama/night/5/1 visible true
+bossbar add panorama/night/5/2 ""
+bossbar set minecraft:panorama/night/5/2 visible true
+bossbar add panorama/night/5/3 ""
+bossbar set minecraft:panorama/night/5/3 visible true
+bossbar add panorama/night/5/4 ""
+bossbar set minecraft:panorama/night/5/4 visible true
+#TU1
+bossbar add panorama/day/1/1 ""
+bossbar set minecraft:panorama/day/1/1 visible true
+bossbar add panorama/day/1/2 ""
+bossbar set minecraft:panorama/day/1/2 visible true
+bossbar add panorama/day/1/3 ""
+bossbar set minecraft:panorama/day/1/3 visible true
+bossbar add panorama/day/1/4 ""
+bossbar set minecraft:panorama/day/1/4 visible true
+bossbar add panorama/night/1/1 ""
+bossbar set minecraft:panorama/night/1/1 visible true
+bossbar add panorama/night/1/2 ""
+bossbar set minecraft:panorama/night/1/2 visible true
+bossbar add panorama/night/1/3 ""
+bossbar set minecraft:panorama/night/1/3 visible true
+bossbar add panorama/night/1/4 ""
+bossbar set minecraft:panorama/night/1/4 visible true
