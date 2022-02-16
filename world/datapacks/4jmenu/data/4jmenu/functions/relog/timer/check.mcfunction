@@ -12,7 +12,7 @@ title @a times 0 50 1
 
 ##Display text
 title @a[tag=relogtimer] title "Installing resources..."
-title @a[tag=relogtimer] subtitle "Enable resource packs in server settings!"
+title @a[tag=relogtimer] subtitle "Type /loadresource menu to try again."
 
 ##Give Effects
 effect give @a[tag=relogtimer] invisibility 2 0 true
