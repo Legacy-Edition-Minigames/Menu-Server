@@ -57,6 +57,6 @@ execute as @s[tag=optifine,scores={4j.pack=9}] run loadresource battle-festive-o
 
 ##Load Fallout
 #Standard
-execute as @s[tag=!optifine,scores={4j.pack=9}] run loadresource battle-fallout
+execute as @s[tag=!optifine,scores={4j.pack=10}] run loadresource battle-fallout
 #Optifine
-execute as @s[tag=optifine,scores={4j.pack=9}] run loadresource battle-fallout-optifine
+execute as @s[tag=optifine,scores={4j.pack=10}] run loadresource battle-fallout-optifine
