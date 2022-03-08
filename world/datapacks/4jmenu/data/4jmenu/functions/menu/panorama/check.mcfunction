@@ -1,3 +1,13 @@
+##Move panorama
+#GUI Scale 1
+execute if entity @a[advancements={4jmenu:config/panscale/1=true}] run function 4jmenu:menu/panorama/move/1
+#GUI Scale 2
+execute if entity @a[advancements={4jmenu:config/panscale/2=true}] run function 4jmenu:menu/panorama/move/2
+#GUI Scale 3
+execute if entity @a[advancements={4jmenu:config/panscale/3=true}] run function 4jmenu:menu/panorama/move/3
+#GUI Scale 4
+execute if entity @a[advancements={4jmenu:config/panscale/4=true}] run function 4jmenu:menu/panorama/move/4
+
 ##Update panorama
 ##TU69
 execute if entity @a[advancements={4jmenu:config/panorama/69/day=true,4jmenu:config/panscale/1=true}] run function 4jmenu:menu/panorama/render/day/69/1
