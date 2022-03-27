@@ -27,8 +27,8 @@ execute as @s[scores={4j.selection=7},tag=pannight] run function 4jmenu:menu/con
 execute as @s[scores={4j.selection=8},tag=panday] run function 4jmenu:menu/config/panorama/texture/69/day
 execute as @s[scores={4j.selection=8},tag=pannight] run function 4jmenu:menu/config/panorama/texture/69/night
 
-##Go Back
-scoreboard players set @s 4j.tab 7
+##Go back
+execute as @s[scores={4j.selection=9}] run scoreboard players set @s 4j.tab 7
 
 ##Remove tag
 tag @s remove click

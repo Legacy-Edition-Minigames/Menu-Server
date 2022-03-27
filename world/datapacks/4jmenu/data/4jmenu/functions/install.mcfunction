@@ -37,6 +37,30 @@ scoreboard objectives add 4j.timer dummy
 ##Panorama timer
 scoreboard objectives add 4j.panorama dummy
 
+##Render tabs
+#1
+scoreboard objectives add 4j.rendertab.1 dummy
+#2
+scoreboard objectives add 4j.rendertab.2 dummy
+#3
+scoreboard objectives add 4j.rendertab.3 dummy
+
+##Render buttons
+#1
+scoreboard objectives add 4j.renderbutto.1 dummy
+#2
+scoreboard objectives add 4j.renderbutto.2 dummy
+#3
+scoreboard objectives add 4j.renderbutto.3 dummy
+#4
+scoreboard objectives add 4j.renderbutto.4 dummy
+#5
+scoreboard objectives add 4j.renderbutto.5 dummy
+#6
+scoreboard objectives add 4j.renderbutto.6 dummy
+#7
+scoreboard objectives add 4j.renderbutto.7 dummy
+
 ##Nocollision team
 #Create
 team add nocol
