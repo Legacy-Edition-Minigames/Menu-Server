@@ -2,6 +2,8 @@
 tag @s remove battletimer
 tag @s remove battlepack
 tag @s remove resourceloaded
+tag @s remove panday
+tag @s remove pannight
 
 ##Disable menu
 tag @s add nomenu

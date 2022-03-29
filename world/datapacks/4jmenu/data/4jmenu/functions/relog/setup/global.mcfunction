@@ -1,9 +1,8 @@
 ##Display message
 #tellraw @s ["",{"text":"Come join the Community Server to talk about LEM, ask for help, find groups to play with and see development updates!","color":"#7289DA"},"\n",{"text":"https://discord.gg/mqpf93ZTgM","underlined":true,"color":"blue","clickEvent":{"action":"open_url","value":"https://discord.gg/mqpf93ZTgM"},"hoverEvent":{"action":"show_text","contents":[{"text":"Click to open: https://discord.gg/mqpf93ZTgM","color":"blue"}]}}]
 
-##Remove tags
-tag @s remove panday
-tag @s remove panight
+##Migrate configs from 4jbattle to 4jmenu namespace
+function 4jmenu:relog/setup/migrateadvancements
 
 ##Set default panorama scale if not set
 execute if entity @s[advancements={4jmenu:config/default_set=false}] run function 4jmenu:menu/panorama/defaultconfig
