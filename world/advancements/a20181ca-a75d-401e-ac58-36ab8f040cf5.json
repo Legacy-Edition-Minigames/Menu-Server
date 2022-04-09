@@ -5,27 +5,15 @@
     },
     "done": true
   },
-  "4jmenu:resource/started": {
-    "criteria": {
-      "custom": "2022-02-01 12:32:01 -0600"
-    },
-    "done": true
-  },
   "4jmenu:config/panorama/14/day": {
     "criteria": {
-      "requirement": "2022-02-01 12:32:53 -0600"
-    },
-    "done": true
-  },
-  "4jmenu:resource/finished": {
-    "criteria": {
-      "custom": "2022-02-01 12:32:07 -0600"
+      "requirement": "2022-04-04 02:19:01 -0500"
     },
     "done": true
   },
   "4jmenu:config/panscale/2": {
     "criteria": {
-      "requirement": "2022-02-01 12:15:42 -0600"
+      "requirement": "2022-03-25 11:44:31 -0500"
     },
     "done": true
   },

@@ -15,3 +15,5 @@ execute if score @s 4j.tab matches 6 run function 4jmenu:menu/gui/button/option/
 execute if score @s 4j.tab matches 7 run function 4jmenu:menu/gui/button/option/panorama/background/main/run
 #Options/Panorama/Background/Choose menu
 execute if score @s 4j.tab matches 8 run function 4jmenu:menu/gui/button/option/panorama/background/choose/run
+#Options/Pack/Main menu
+execute if score @s 4j.tab matches 9 run function 4jmenu:menu/gui/button/option/pack/run

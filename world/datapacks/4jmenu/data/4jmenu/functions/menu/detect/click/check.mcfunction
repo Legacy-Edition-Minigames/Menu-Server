@@ -13,14 +13,16 @@ execute as @s[tag=click,scores={4j.tab=4}] run function 4jmenu:menu/detect/click
 ##Options
 #Main
 execute as @s[tag=click,scores={4j.tab=3}] run function 4jmenu:menu/detect/click/options/main
-#Panorama: Main
+#Option/Panorama/Main
 execute as @s[tag=click,scores={4j.tab=5}] run function 4jmenu:menu/detect/click/options/panorama/main
-#Panorama: Scale
+#Option/Panorama/Scale
 execute as @s[tag=click,scores={4j.tab=6}] run function 4jmenu:menu/detect/click/options/panorama/scale
-#Panorama: background/main
+#Option/Panorama/background/main
 execute as @s[tag=click,scores={4j.tab=7}] run function 4jmenu:menu/detect/click/options/panorama/background/main
-#Panorama: background/choose
+#Option/Panorama/background/choose
 execute as @s[tag=click,scores={4j.tab=8}] run function 4jmenu:menu/detect/click/options/panorama/background/choose
+#Option/Pack/main
+execute as @s[tag=click,scores={4j.tab=9}] run function 4jmenu:menu/detect/click/options/pack/main
 
 ##Error: Not available
 execute as @s[tag=click,scores={4j.tab=-1}] run function 4jmenu:menu/detect/click/notice/notavailable
