@@ -5,7 +5,15 @@
 	"packs": [
 		{
 			"packname": "menu",
-			"url": "http://23.185.17.134:80/lem/resources/menu/resources8.zip",
+			"url": "https://github.com/DBTDerpbox/LEM-Menu-Resources/blob/zip/zip/resources9/vanilla/resources.zip?raw=true",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Legacy Edition Minigames requires a resource pack to function properly!"
+		},
+		{
+			"packname": "menu-optifine",
+			"url": "https://github.com/DBTDerpbox/LEM-Menu-Resources/blob/zip/zip/resources9/optifine/resources.zip?raw=true",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
