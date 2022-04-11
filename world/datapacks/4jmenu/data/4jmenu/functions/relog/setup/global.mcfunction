@@ -4,8 +4,11 @@
 ##Migrate configs from 4jbattle to 4jmenu namespace
 function 4jmenu:relog/setup/migrateadvancements
 
-##Set default panorama scale if not set
-execute if entity @s[advancements={4jmenu:config/default_set=false}] run function 4jmenu:menu/panorama/defaultconfig
+##Set default panorama config if not set
+#Scale
+execute if entity @s[advancements={4jmenu:config/panscale/default_set=false}] run function 4jmenu:menu/panorama/defaultconfig/scale
+#Background
+execute if entity @s[advancements={4jmenu:config/panorama/default_set=false}] run function 4jmenu:menu/panorama/defaultconfig/background
 
 ##Enable Menu
 tag @s remove nomenu
