@@ -25,10 +25,13 @@ execute as @s[tag=click,scores={4j.tab=8}] run function 4jmenu:menu/detect/click
 execute as @s[tag=click,scores={4j.tab=9}] run function 4jmenu:menu/detect/click/options/pack/main
 
 ##Error: Not available
-execute as @s[tag=click,scores={4j.tab=-1}] run function 4jmenu:menu/detect/click/notice/notavailable
+execute as @s[tag=click,scores={4j.tab=-1}] run function 4jmenu:menu/detect/click/notice/generic
 
 ##Notice: Not available
-execute as @s[tag=click,scores={4j.tab=-2}] run function 4jmenu:menu/detect/click/notice/keyboardnotice
+execute as @s[tag=click,scores={4j.tab=-2}] run function 4jmenu:menu/detect/click/notice/generic
+
+##Notice: Preloading disabled
+execute as @s[tag=click,scores={4j.tab=-3}] run function 4jmenu:menu/detect/click/notice/generic
 
 ##Teleport player back
 tp @s 0 4 0 0 0
