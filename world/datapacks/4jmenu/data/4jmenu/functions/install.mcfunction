@@ -10,6 +10,9 @@ scoreboard objectives add 4j.musrandom dummy
 ##Menu tabs
 scoreboard objectives add 4j.tab dummy
 
+##Menu pages
+scoreboard objectives add 4j.page dummy
+
 ##Menu selection
 scoreboard objectives add 4j.selection dummy
 
