@@ -1,0 +1,4 @@
+{
+	// Set to true to stop fluids from flowing. See also /waterfreezer
+	"FROZEN": false
+}

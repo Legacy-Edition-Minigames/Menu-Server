@@ -42,9 +42,7 @@ If you do make your own LEM server, please at least credit me.
 
 * [FabricMC](https://fabricmc.net/use/) 
 
-* [SwitchableResourcePacks](https://github.com/kyrptonaught/SwitchableResourcepacks) ([GitHub](https://github.com/kyrptonaught/SwitchableResourcepacks/releases) [Modrinth](https://modrinth.com/mod/switchableresourcepacks) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/switchableresourcepacks))
-
-* [VelocityServerSwitch](https://github.com/kyrptonaught/VelocityServerSwitch)
+* [ServerUtils](https://github.com/kyrptonaught/Server-Utils) ([GitHub Releases](https://github.com/kyrptonaught/Server-Utils/releases))
 
 ### Connecting
 

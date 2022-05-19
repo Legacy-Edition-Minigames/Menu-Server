@@ -1,7 +1,10 @@
 {
 	// Should all criteria be automatically revoked next time the command is executed.
 	"autoRevoke": false,
-	// List of all the resourcepacks configurations to use
+	/* 
+	   List of all the resourcepacks configurations to use
+	   packCompatibility is used to define if this is a pack for VANILLA, OPTIFINE, or BOTH
+	*/
 	"packs": [
 		{
 			"packname": "menu",
@@ -9,7 +12,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Legacy Edition Minigames requires a resource pack to function properly!"
+			"message": "Legacy Edition Minigames requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "menu-optifine",
@@ -17,7 +21,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Legacy Edition Minigames requires a resource pack to function properly!"
+			"message": "Legacy Edition Minigames requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		},
 		{
 			"packname": "battle-vanilla",
@@ -25,7 +30,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "battle-vanilla-optifine",
@@ -33,7 +39,26 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
+		},
+		{
+			"packname": "battle-all-music-1",
+			"url": "https://www.dropbox.com/s/8b5pu27elxceu2z/all-music-1.zip?dl=1",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
+		},
+		{
+			"packname": "battle-all-music-1-optifine",
+			"url": "https://www.dropbox.com/s/q8ua0sd8vzltkz7/all-music-1.zip?dl=1",
+			"hash": "",
+			"required": true,
+			"hasPrompt": true,
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		},
 		{
 			"packname": "battle-plastic",
@@ -41,7 +66,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "battle-plastic-optifine",
@@ -49,7 +75,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		},
 		{
 			"packname": "battle-fantasy",
@@ -57,7 +84,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "battle-fantasy-optifine",
@@ -65,7 +93,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		},
 		{
 			"packname": "battle-city",
@@ -73,7 +102,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "battle-city-optifine",
@@ -81,7 +111,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		},
 		{
 			"packname": "battle-greek",
@@ -89,7 +120,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "battle-greek-optifine",
@@ -97,7 +129,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		},
 		{
 			"packname": "battle-steampunk",
@@ -105,7 +138,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "battle-steampunk-optifine",
@@ -113,7 +147,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		},
 		{
 			"packname": "battle-chinese",
@@ -121,7 +156,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "This map requires a custom texture pack!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "battle-chinese-optifine",
@@ -129,7 +165,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "This map requires a custom texture pack!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		},
 		{
 			"packname": "battle-halloween",
@@ -137,7 +174,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "battle-halloween-optifine",
@@ -145,7 +183,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		},
 		{
 			"packname": "battle-festive",
@@ -153,7 +192,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "battle-festive-optifine",
@@ -161,7 +201,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		},
 		{
 			"packname": "battle-fallout",
@@ -169,7 +210,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "VANILLA"
 		},
 		{
 			"packname": "battle-fallout-optifine",
@@ -177,7 +219,8 @@
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
-			"message": "Please accept to preload resources!"
+			"message": "Legacy Edition Battle requires a resource pack to function properly!",
+			"packCompatibility": "OPTIFINE"
 		}
 	]
 }
