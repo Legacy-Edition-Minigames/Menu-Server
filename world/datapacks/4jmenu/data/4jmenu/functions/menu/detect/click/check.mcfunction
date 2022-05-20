@@ -1,6 +1,9 @@
 ##Add tag
 tag @s add click
 
+##Setup
+execute as @s[tag=click,scores={4j.page=10}] run function 4jmenu:menu/detect/click/setup/optifine
+
 ##Join
 execute as @s[tag=click,scores={4j.page=1}] run function 4jmenu:menu/detect/click/join
 
@@ -28,7 +31,7 @@ execute as @s[tag=click,scores={4j.page=9}] run function 4jmenu:menu/detect/clic
 execute as @s[tag=click,scores={4j.page=-1}] run function 4jmenu:menu/detect/click/notice/generic
 
 ##Notice: Not available
-execute as @s[tag=click,scores={4j.page=-2}] run function 4jmenu:menu/detect/click/notice/generic
+execute as @s[tag=click,scores={4j.page=-2}] run function 4jmenu:menu/detect/click/notice/notavailable
 
 ##Notice: Preloading disabled
 execute as @s[tag=click,scores={4j.page=-3}] run function 4jmenu:menu/detect/click/notice/generic

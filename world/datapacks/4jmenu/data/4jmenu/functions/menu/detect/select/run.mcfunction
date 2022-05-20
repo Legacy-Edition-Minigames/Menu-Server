@@ -5,6 +5,8 @@ execute as @s[tag=a,scores={4j.page=2..3}] run scoreboard players remove @s 4j.p
 execute as @s[tag=d,scores={4j.page=1..2}] run scoreboard players add @s 4j.page 1
 
 ##Change selection
+#Setup/Optifine
+execute as @s[scores={4j.page=10}] run function 4jmenu:menu/detect/select/selection/setup/optifine
 #Join page
 execute as @s[scores={4j.page=1}] run function 4jmenu:menu/detect/select/selection/join
 #Preload/Main

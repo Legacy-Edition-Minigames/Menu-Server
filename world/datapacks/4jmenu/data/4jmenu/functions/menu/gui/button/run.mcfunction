@@ -1,6 +1,8 @@
 ##Display buttons
 #Keyboard Notice
 execute if score @s 4j.page matches ..-1 run function 4jmenu:menu/gui/button/notice/run
+#Setup/Pack/Main menu
+execute if score @s 4j.page matches 10 run function 4jmenu:menu/gui/button/setup/optifine/run
 #Minigame selection
 execute if score @s 4j.page matches 1..2 run function 4jmenu:menu/gui/button/game/run
 #Preloader optifine check
