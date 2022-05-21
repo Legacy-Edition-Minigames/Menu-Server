@@ -1,5 +1,5 @@
 ##Toggle OptiFine pack
-execute as @s[scores={4j.selection=1}] run function 4jmenu:menu/detect/click/options/pack/toggleof/run
+execute as @s[scores={4j.selection=1}] run scoreboard players set @s 4j.page 10
 
 ##Go Back
 execute as @s[scores={4j.selection=2}] run scoreboard players set @s 4j.page 3
