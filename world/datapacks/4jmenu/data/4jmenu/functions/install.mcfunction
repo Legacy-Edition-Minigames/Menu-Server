@@ -64,6 +64,22 @@ scoreboard objectives add 4j.renderbutto.6 dummy
 #7
 scoreboard objectives add 4j.renderbutto.7 dummy
 
+##Render tickbox ticks
+#1
+scoreboard objectives add 4j.rendertick.1 dummy
+#2
+scoreboard objectives add 4j.rendertick.2 dummy
+#3
+scoreboard objectives add 4j.rendertick.3 dummy
+#4
+scoreboard objectives add 4j.rendertick.4 dummy
+#5
+scoreboard objectives add 4j.rendertick.5 dummy
+#6
+scoreboard objectives add 4j.rendertick.6 dummy
+#7
+scoreboard objectives add 4j.rendertick.7 dummy
+
 ##Nocollision team
 #Create
 team add nocol

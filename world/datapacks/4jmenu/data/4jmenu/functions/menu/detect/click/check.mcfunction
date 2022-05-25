@@ -45,5 +45,8 @@ playsound ui.button.click master @s ~ ~ ~ 0.25
 ##Set selection to 1
 scoreboard players set @s 4j.selection 1
 
+##Run loadpage check
+function 4jmenu:menu/loadpage/check
+
 ##Reset score
 scoreboard players reset @s 4j.jump
