@@ -8,7 +8,7 @@
 	"packs": [
 		{
 			"packname": "menu-setup",
-			"url": "https://github.com/DBTDerpbox/LEM-Menu-Resources/blob/zip/zip/resources11/setup.zip?raw=true",
+			"url": "https://github.com/DBTDerpbox/LEM-Menu-Resources/blob/zip/zip/resources12/setup.zip?raw=true",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -17,7 +17,7 @@
 		},
 		{
 			"packname": "menu",
-			"url": "https://github.com/DBTDerpbox/LEM-Menu-Resources/blob/zip/zip/resources11/vanilla/resources.zip?raw=true",
+			"url": "https://github.com/DBTDerpbox/LEM-Menu-Resources/blob/zip/zip/resources12/vanilla/resources.zip?raw=true",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -26,7 +26,7 @@
 		},
 		{
 			"packname": "menu-optifine",
-			"url": "https://github.com/DBTDerpbox/LEM-Menu-Resources/blob/zip/zip/resources11/optifine/resources.zip?raw=true",
+			"url": "https://github.com/DBTDerpbox/LEM-Menu-Resources/blob/zip/zip/resources12/optifine/resources.zip?raw=true",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
