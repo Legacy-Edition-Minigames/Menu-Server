@@ -2,7 +2,7 @@
 
 This is a frontend for connecting to the Legacy Edition Minigames ports/remakes I have created.
 
-![Minecraft Version](https://img.shields.io/badge/Minecraft-1.17.1-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/lem-menu-server?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/lem-menu-server?style=for-the-badge)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.18.2-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/lem-menu-server?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/lem-menu-server?style=for-the-badge)
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com) ![Powered By Nostalgia](https://img.shields.io/badge/Powered_by-Nostalgia-e49454?style=for-the-badge)
 
@@ -54,7 +54,7 @@ If you do make your own LEM server, please at least credit me.
 
 ### Notices
 
-Legacy Edition Minigames Menu Server is currently designed for [Minecraft Java Edition 1.17.1](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-17-1)
+Legacy Edition Minigames Menu Server is currently designed for [Minecraft Java Edition 1.18.2](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-18-2)
 
 ### Credits
 
