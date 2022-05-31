@@ -1,21 +1,33 @@
 {
-  "4jmenu:config/default_set": {
+  "4jmenu:config/setup_complete": {
     "criteria": {
-      "requirement": "2021-12-29 08:52:28 -0600"
+      "requirement": "2022-05-20 01:50:39 -0500"
     },
     "done": true
   },
-  "4jmenu:config/panorama/14/day": {
+  "4jmenu:config/panorama/5/night": {
     "criteria": {
-      "requirement": "2022-04-04 02:19:01 -0500"
+      "requirement": "2022-05-24 21:51:24 -0500"
+    },
+    "done": true
+  },
+  "4jmenu:config/panorama/default_set": {
+    "criteria": {
+      "requirement": "2022-05-14 14:21:36 -0500"
     },
     "done": true
   },
   "4jmenu:config/panscale/2": {
     "criteria": {
-      "requirement": "2022-03-25 11:44:31 -0500"
+      "requirement": "2022-05-24 21:00:15 -0500"
     },
     "done": true
   },
-  "DataVersion": 2730
+  "4jmenu:config/panscale/default_set": {
+    "criteria": {
+      "requirement": "2022-05-14 14:21:36 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
 }
