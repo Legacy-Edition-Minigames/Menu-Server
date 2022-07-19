@@ -62,6 +62,6 @@ Minecraft - [Mojang Studios](www.mojang.com)
 
 Legacy Editions - [4J Studios](https://www.4jstudios.com/)
 
-Switchable Resource Packs - [Kyrptonaught](https://github.com/kyrptonaught)
+Major modding help - [Kyrptonaught](https://github.com/kyrptonaught)
 
-Velocity Server Switch - [Kyrptonaught](https://github.com/kyrptonaught)
+Porting the panorama renderer to a serverside mod - [Kyrptonaught](https://github.com/kyrptonaught)
