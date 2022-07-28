@@ -7,8 +7,10 @@ execute as @s[tag=d,scores={4j.page=1..2}] run scoreboard players add @s 4j.page
 ##Change selection
 #Setup/Optifine
 execute as @s[scores={4j.page=10}] run function 4jmenu:menu/detect/select/selection/setup/optifine
-#Join page
-execute as @s[scores={4j.page=1}] run function 4jmenu:menu/detect/select/selection/join
+#Join
+execute as @s[scores={4j.page=1}] run function 4jmenu:menu/detect/select/selection/join/main
+#Join/Battle
+execute as @s[scores={4j.page=11}] run function 4jmenu:menu/detect/select/selection/join/battle
 #Preload/Main
 execute as @s[scores={4j.page=2}] run function 4jmenu:menu/detect/select/selection/preload/main
 #Preload/Battle/Optifine check

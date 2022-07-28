@@ -5,7 +5,10 @@ tag @s add click
 execute as @s[tag=click,scores={4j.page=10}] run function 4jmenu:menu/detect/click/setup/optifine
 
 ##Join
-execute as @s[tag=click,scores={4j.page=1}] run function 4jmenu:menu/detect/click/join
+#Main
+execute as @s[tag=click,scores={4j.page=1}] run function 4jmenu:menu/detect/click/join/main
+#Battle
+execute as @s[tag=click,scores={4j.page=11}] run function 4jmenu:menu/detect/click/join/battle
 
 ##Preload
 #Main

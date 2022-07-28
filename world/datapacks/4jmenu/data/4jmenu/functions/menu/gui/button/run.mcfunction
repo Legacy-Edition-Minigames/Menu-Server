@@ -4,7 +4,9 @@ execute if score @s 4j.page matches ..-1 run function 4jmenu:menu/gui/button/not
 #Setup/Pack/Main menu
 execute if score @s 4j.page matches 10 run function 4jmenu:menu/gui/button/setup/optifine/run
 #Minigame selection
-execute if score @s 4j.page matches 1..2 run function 4jmenu:menu/gui/button/game/run
+execute if score @s 4j.page matches 1..2 run function 4jmenu:menu/gui/button/game/main/run
+#Battle server selection
+execute if score @s 4j.page matches 11 run function 4jmenu:menu/gui/button/game/battle/run
 #Preloader optifine check
 execute if score @s 4j.page matches 4 run function 4jmenu:menu/gui/button/preload/run
 #Options/Main menu
