@@ -5,7 +5,7 @@ execute if entity @s[advancements={4jmenu:config/panscale/3=true}] run scoreboar
 execute if entity @s[advancements={4jmenu:config/panscale/4=true}] run scoreboard players set @s 4j.panscale 4
 
 ##Clear loaded panoramas
-panorama clear
+panorama clear all
 
 ##Load panoramas
 #TU69
