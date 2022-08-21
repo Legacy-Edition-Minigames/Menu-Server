@@ -1,8 +1,8 @@
 ##Change page
 #Left
-execute as @s[tag=a,scores={4j.page=2..3}] run scoreboard players remove @s 4j.page 1
+execute as @s[tag=a,scores={4j.page=2..3}] run function 4jmenu:menu/detect/select/prevtab
 #Right
-execute as @s[tag=d,scores={4j.page=1..2}] run scoreboard players add @s 4j.page 1
+execute as @s[tag=d,scores={4j.page=1..2}] run function 4jmenu:menu/detect/select/nexttab
 
 ##Change selection
 #Setup/Optifine
