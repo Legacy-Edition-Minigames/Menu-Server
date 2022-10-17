@@ -2,7 +2,7 @@
 playsound 4jmenu:music.menu.1 music @s
 
 ##Set timer
-scoreboard players set @s 4j.mustimer 194
+scoreboard players set @s 4j.mustimer 113
 
 ##Mark as last song
 #scoreboard players set @s 4j.muslast 1
