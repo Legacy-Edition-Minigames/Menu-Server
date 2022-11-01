@@ -53,7 +53,7 @@
 		},
 		{
 			"packname": "battle-all-music-1",
-			"url": "https://www.dropbox.com/s/1umdviq5yzmj5f9/all-music-1-xof.zip?dl=1",
+			"url": "https://www.dropbox.com/s/zvbmzme0ym5uxkn/all-music-1-xof.zip?dl=1",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -62,7 +62,7 @@
 		},
 		{
 			"packname": "battle-all-music-1-optifine",
-			"url": "https://www.dropbox.com/s/twlimk8vrhhuupw/all-music-1-xof.zip?dl=1",
+			"url": "https://www.dropbox.com/s/dzzdl7sd5nhznep/all-music-1-xof.zip?dl=1",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -179,7 +179,7 @@
 		},
 		{
 			"packname": "battle-halloween",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R26.3/halloween-1.19.zip?raw=true",
+			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R26.3/halloween-1.19-xof.zip?raw=true",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -188,7 +188,7 @@
 		},
 		{
 			"packname": "battle-halloween-optifine",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R26.3/halloween-1.19.zip?raw=true",
+			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R26.3/halloween-1.19-xof.zip?raw=true",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
