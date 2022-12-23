@@ -179,7 +179,7 @@
 		},
 		{
 			"packname": "battle-halloween",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R26.4/halloween-1.19-xof.zip?raw=true",
+			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/standard/R26.4/halloween.zip?raw=true",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
@@ -188,7 +188,7 @@
 		},
 		{
 			"packname": "battle-halloween-optifine",
-			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R26.4/halloween-1.19-xof.zip?raw=true",
+			"url": "https://github.com/DBTDerpbox/LEB-Resources/blob/zip/zip/optifine/R26.4/halloween.zip?raw=true",
 			"hash": "",
 			"required": true,
 			"hasPrompt": true,
