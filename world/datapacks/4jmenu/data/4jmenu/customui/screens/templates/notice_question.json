@@ -1,0 +1,43 @@
+{
+  "title": "[{\"text\":\"\uF809\uF808\uF8041\",\"color\":\"white\",\"font\":\"4jmenu:menu/theme/vanilla/window/popup\"},{\"text\":\"\uF80C\uF80B\uF809\uF808\uF801\",\"font\":\"4jmenu:menu/text/en_us/notice/generic_title\"},{\"translate\":\"4j.ui.notice.generic_title\",\"font\":\"4jmenu:menu/text/en_us/notice/generic_title\",\"color\":\"#424242\"},{\"text\":\"\uF80C\uF80B\uF809\uF808\uF801\",\"font\":\"4jmenu:menu/text/en_us/notice/generic_title\"},{\"translate\":\"4j.ui.notice.generic_confirmation\",\"font\":\"4jmenu:menu/text/en_us/notice/generic_confirmation\",\"color\":\"#424242\"}]",
+  "escToClose": true,
+  "escSound": "4jmenu:sound.menu.back",
+  "forceHotBarSlot": "1",
+  "slots": {
+    "36-42": {
+      "presetID": "4jmenu:button/generic:blank",
+      "leftClickSound": "4jmenu:sound.menu.back",
+      "leftClickAction": "back/"
+    },
+    "43": {
+      "presetID": "4jmenu:button/generic:standard",
+      "leftClickSound": "4jmenu:sound.menu.back",
+      "leftClickAction": "back/"
+    },
+    "44": {
+      "presetID": "4jmenu:button/generic:blank",
+      "customModelData": "4j.ui.text.cancel",
+      "leftClickSound": "4jmenu:sound.menu.back",
+      "leftClickAction": "back/"
+    },
+    "45-51": {
+      "presetID": "4jmenu:button/generic:blank",
+      "leftClickAction": "command/ say yes"
+    },
+    "52": {
+      "presetID": "4jmenu:button/generic:standard",
+      "leftClickAction": "command/ say yes"
+    },
+    "53": {
+      "presetID": "4jmenu:button/generic:blank",
+      "customModelData": "4j.ui.text.ok",
+      "leftClickAction": "command/ say yes"
+    },
+    "72": {
+      "presetID": "4jmenu:button/leavegame:visual"
+    },
+    "81": {
+      "presetID": "4jmenu:button/leavegame:button"
+    }
+  }
+}

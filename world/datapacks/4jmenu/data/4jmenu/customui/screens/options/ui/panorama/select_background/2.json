@@ -1,0 +1,58 @@
+{
+  "title": "{\"text\":\"\uF808\uF8033\",\"color\":\"white\",\"font\":\"4jmenu:menu/theme/vanilla/window/box\"}",
+  "escToClose": true,
+  "escSound": "4jmenu:sound.menu.back",
+  "forceHotBarSlot": "1",
+  "slots": {
+      "0-6": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/46"
+      },
+      "7": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/46"
+      },
+      "8": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.tu46",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/46"
+      },
+      "9-15": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/69"
+      },
+      "16": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/69"
+      },
+      "17": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.tu69",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/69"
+      },
+      "73-78": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "79": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "80": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.go_back",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "72": {
+        "presetID": "4jmenu:button/leavegame:visual",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "81": {
+        "presetID": "4jmenu:button/leavegame:button"
+      }
+  }
+}

@@ -32,7 +32,7 @@ scoreboard players set @s 4j.hold 10
 function 4jmenu:game/combat/cooldown
 
 ##Load Menu
-function 4jmenu:menu/load/main
+function 4jmenu:menu/load
 
 ##Disable FriendlyFire
 execute as @s run attribute @s minecraft:generic.attack_damage base set -100

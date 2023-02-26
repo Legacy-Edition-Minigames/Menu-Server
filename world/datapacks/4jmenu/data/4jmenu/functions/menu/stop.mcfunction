@@ -1,5 +1,5 @@
 ##Clear schedules
 #Check
 schedule clear 4jmenu:menu/check
-#Panorama teleport
+#Panorama
 schedule clear 4jmenu:menu/panorama

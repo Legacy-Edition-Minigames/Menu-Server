@@ -1,0 +1,84 @@
+{
+  "title": "{\"text\":\"\uF808\uF8033\",\"color\":\"white\",\"font\":\"4jmenu:menu/theme/vanilla/window/box\"}",
+  "escToClose": true,
+  "escSound": "4jmenu:sound.menu.back",
+  "forceHotBarSlot": "1",
+  "slots": {
+    "0-6": {
+      "presetID": "4jmenu:button/generic:blank",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/1"
+    },
+    "7": {
+      "presetID": "4jmenu:button/generic:standard",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/1"
+    },
+    "8": {
+      "presetID": "4jmenu:button/generic:blank",
+      "customModelData": "4j.ui.text.scale_1",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/1"
+    },
+    "9-15": {
+      "presetID": "4jmenu:button/generic:blank",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/2"
+    },
+    "16": {
+      "presetID": "4jmenu:button/generic:standard",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/2"
+    },
+    "17": {
+      "presetID": "4jmenu:button/generic:blank",
+      "customModelData": "4j.ui.text.scale_2",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/2"
+    },
+    "18-24": {
+      "presetID": "4jmenu:button/generic:blank",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/3"
+    },
+    "25": {
+      "presetID": "4jmenu:button/generic:standard",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/3"
+    },
+    "26": {
+      "presetID": "4jmenu:button/generic:blank",
+      "customModelData": "4j.ui.text.scale_3",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/3"
+    },
+    "27-33": {
+      "presetID": "4jmenu:button/generic:blank",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/4"
+    },
+    "34": {
+      "presetID": "4jmenu:button/generic:standard",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/4"
+    },
+    "35": {
+      "presetID": "4jmenu:button/generic:blank",
+      "customModelData": "4j.ui.text.scale_4",
+      "leftClickAction": "command/ function 4jmenu:menu/config/panorama/scale/4"
+    },
+    "73-78": {
+      "presetID": "4jmenu:button/generic:blank",
+      "leftClickSound": "4jmenu:sound.menu.back",
+      "leftClickAction": "back/"
+    },
+    "79": {
+      "presetID": "4jmenu:button/generic:standard",
+      "leftClickSound": "4jmenu:sound.menu.back",
+      "leftClickAction": "back/"
+    },
+    "80": {
+      "presetID": "4jmenu:button/generic:blank",
+      "customModelData": "4j.ui.text.done",
+      "leftClickSound": "4jmenu:sound.menu.back",
+      "leftClickAction": "back/"
+    },
+    "72": {
+      "presetID": "4jmenu:button/leavegame:visual",
+      "leftClickSound": "4jmenu:sound.menu.back",
+      "leftClickAction": "back/"
+    },
+    "81": {
+      "presetID": "4jmenu:button/leavegame:button"
+    }
+  }
+}

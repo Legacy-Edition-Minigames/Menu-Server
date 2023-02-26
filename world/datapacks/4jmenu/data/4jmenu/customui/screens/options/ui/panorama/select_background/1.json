@@ -1,0 +1,123 @@
+{
+  "title": "{\"text\":\"\uF808\uF8033\",\"color\":\"white\",\"font\":\"4jmenu:menu/theme/vanilla/window/box\"}",
+  "escToClose": true,
+  "escSound": "4jmenu:sound.menu.back",
+  "forceHotBarSlot": "1",
+  "slots": {
+      "0-6": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/1"
+      },
+      "7": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/1"
+      },
+      "8": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.tu1",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/1"
+      },
+      "9-15": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/5"
+      },
+      "16": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/5"
+      },
+      "17": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.tu5",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/5"
+      },
+      "18-24": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/9"
+      },
+      "25": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/9"
+      },
+      "26": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.tu9",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/9"
+      },
+      "27-33": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/14"
+      },
+      "34": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/14"
+      },
+      "35": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.tu14",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/14"
+      },
+      "36-42": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/19"
+      },
+      "43": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/19"
+      },
+      "44": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.tu19",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/19"
+      },
+      "45-51": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/31"
+      },
+      "52": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/31"
+      },
+      "53": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.tu31",
+        "leftClickAction": "command/ function 4jmenu:menu/gui/options/ui/panorama/select_background/31"
+      },
+      "54-60": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "openUI/ 4jmenu:options/ui/panorama/select_background/2"
+      },
+      "61": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "openUI/ 4jmenu:options/ui/panorama/select_background/2"
+      },
+      "62": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.next_page",
+        "leftClickAction": "openUI/ 4jmenu:options/ui/panorama/select_background/2"
+      },
+      "73-78": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "79": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "80": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.done",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "72": {
+        "presetID": "4jmenu:button/leavegame:visual",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "81": {
+        "presetID": "4jmenu:button/leavegame:button"
+      }
+  }
+}

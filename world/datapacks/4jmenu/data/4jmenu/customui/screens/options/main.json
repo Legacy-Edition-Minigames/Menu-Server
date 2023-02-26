@@ -1,0 +1,66 @@
+{
+  "title": "",
+  "escToClose": true,
+  "escSound": "4jmenu:sound.menu.back",
+  "forceHotBarSlot": "1",
+  "slots": {
+      "0-6": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "openUI/ 4jmenu:not_available"
+      },
+      "7": {
+        "presetID": "4jmenu:button/generic:standard_dark",
+        "leftClickAction": "openUI/ 4jmenu:not_available"
+      },
+      "8": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.how_to_play",
+        "leftClickAction": "openUI/ 4jmenu:not_available"
+      },
+      "9-15": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "openUI/ 4jmenu:not_available"
+      },
+      "16": {
+        "presetID": "4jmenu:button/generic:standard_dark",
+        "leftClickAction": "openUI/ 4jmenu:not_available"
+      },
+      "17": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.controls",
+        "leftClickAction": "openUI/ 4jmenu:not_available"
+      },
+      "18-24": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "openUI/ 4jmenu:options/settings"
+      },
+      "25": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "openUI/ 4jmenu:options/settings"
+      },
+      "26": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.settings",
+        "leftClickAction": "openUI/ 4jmenu:options/settings"
+      },
+      "27-33": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "openUI/ 4jmenu:not_available"
+      },
+      "34": {
+        "presetID": "4jmenu:button/generic:standard_dark",
+        "leftClickAction": "openUI/ 4jmenu:not_available"
+      },
+      "35": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.credits",
+        "leftClickAction": "openUI/ 4jmenu:not_available"
+      },
+      "72": {
+        "presetID": "4jmenu:button/leavegame:visual"
+      },
+      "81": {
+        "presetID": "4jmenu:button/leavegame:button"
+      }
+  }
+}

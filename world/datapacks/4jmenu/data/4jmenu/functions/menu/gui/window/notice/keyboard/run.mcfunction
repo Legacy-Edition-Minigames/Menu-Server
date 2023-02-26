@@ -1,2 +1,0 @@
-##Display menu
-title @s title ["",{"text":"1","font":"4jmenu:menu/theme/vanilla/window"},{"text":"\uF80A\uF809\uF808\uF801","font":"4jmenu:menu/theme/vanilla/button/1"},{"translate":"4j.ui","color":"#2D2D2D","font":"4jmenu:menu/text/notice/notice"},{"text":"\uF80A\uF809\uF808\uF801","font":"4jmenu:menu/theme/vanilla/button/1"},{"translate":"4j.ui","color":"#2D2D2D","font":"4jmenu:menu/text/notice/keyboard_notice"}]

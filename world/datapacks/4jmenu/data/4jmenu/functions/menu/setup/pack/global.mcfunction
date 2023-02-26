@@ -1,2 +1,2 @@
-##Finish setup
-function 4jmenu:menu/setup/finish
+##Wait for pack to load
+function 4jmenu:menu/setup/pack/timer/start

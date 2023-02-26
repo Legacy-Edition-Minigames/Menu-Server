@@ -1,0 +1,14 @@
+{
+  "title": "{\"text\":\"\uF808\uF8031\",\"color\":\"white\",\"font\":\"4jmenu:menu/theme/vanilla/window/box\"}",
+  "escToClose": true,
+  "escSound": "4jmenu:sound.menu.back",
+  "forceHotBarSlot": "1",
+  "slots": {
+      "72": {
+        "presetID": "4jmenu:button/leavegame:visual"
+      },
+      "81": {
+        "presetID": "4jmenu:button/leavegame:button"
+      }
+  }
+}

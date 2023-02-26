@@ -1,0 +1,97 @@
+{
+  "title": "{\"text\":\"\uF808\uF8031\",\"color\":\"white\",\"font\":\"4jmenu:menu/theme/vanilla/window/box\"}",
+  "escToClose": true,
+  "escSound": "4jmenu:sound.menu.back",
+  "forceHotBarSlot": "1",
+  "slots": {
+      "0-6": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ velocityserverswitch battle_1"
+      },
+      "7": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ velocityserverswitch battle_1"
+      },
+      "8": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.server.1",
+        "leftClickAction": "command/ velocityserverswitch battle_1"
+      },
+      "9-15": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ velocityserverswitch battle_2"
+      },
+      "16": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ velocityserverswitch battle_2"
+      },
+      "17": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.server.2",
+        "leftClickAction": "command/ velocityserverswitch battle_2"
+      },
+      "18-24": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ velocityserverswitch battle_3"
+      },
+      "25": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ velocityserverswitch battle_3"
+      },
+      "26": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.server.3",
+        "leftClickAction": "command/ velocityserverswitch battle_3"
+      },
+      "27-33": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "command/ velocityserverswitch battle_experimental"
+      },
+      "34": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "command/ velocityserverswitch battle_experimental"
+      },
+      "35": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.server.experimental",
+        "leftClickAction": "command/ velocityserverswitch battle_experimental"
+      },
+      "36-42": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickAction": "openUI/ 4jmenu:mgmenu/join/germany_notice"
+      },
+      "43": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickAction": "openUI/ 4jmenu:mgmenu/join/germany_notice"
+      },
+      "44": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.server.germany",
+        "leftClickAction": "openUI/ 4jmenu:mgmenu/join/germany_notice"
+      },
+      "73-78": {
+        "presetID": "4jmenu:button/generic:blank",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "79": {
+        "presetID": "4jmenu:button/generic:standard",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "80": {
+        "presetID": "4jmenu:button/generic:blank",
+        "customModelData": "4j.ui.text.go_back",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "72": {
+        "presetID": "4jmenu:button/leavegame:visual",
+        "leftClickSound": "4jmenu:sound.menu.back",
+        "leftClickAction": "back/"
+      },
+      "81": {
+        "presetID": "4jmenu:button/leavegame:button"
+      }
+  }
+}
