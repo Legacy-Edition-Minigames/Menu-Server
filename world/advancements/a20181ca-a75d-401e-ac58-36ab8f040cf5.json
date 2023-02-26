@@ -1,13 +1,13 @@
 {
-  "4jmenu:config/panorama/14/night": {
+  "4jmenu:config/setup_complete": {
     "criteria": {
-      "requirement": "2022-07-19 13:01:43 -0500"
+      "requirement": "2023-02-26 07:34:50 -0600"
     },
     "done": true
   },
-  "4jmenu:config/setup_complete": {
+  "4jmenu:resource/started": {
     "criteria": {
-      "requirement": "2022-05-20 01:50:39 -0500"
+      "custom": "2023-02-26 07:42:36 -0600"
     },
     "done": true
   },
@@ -17,9 +17,21 @@
     },
     "done": true
   },
+  "4jmenu:config/panorama/19/night": {
+    "criteria": {
+      "requirement": "2023-02-25 18:44:15 -0600"
+    },
+    "done": true
+  },
+  "4jmenu:resource/finished": {
+    "criteria": {
+      "custom": "2023-02-26 07:42:38 -0600"
+    },
+    "done": true
+  },
   "4jmenu:config/panscale/2": {
     "criteria": {
-      "requirement": "2022-07-19 13:01:49 -0500"
+      "requirement": "2023-02-25 16:28:35 -0600"
     },
     "done": true
   },
@@ -29,5 +41,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3120
 }
