@@ -19,16 +19,16 @@
       },
       "9-15": {
         "presetID": "4jmenu:button/generic:blank",
-        "leftClickAction": "openUI/ 4jmenu:not_available"
+        "leftClickSound": "4jmenu:sound.menu.fail"
       },
       "16": {
         "presetID": "4jmenu:button/generic:standard_dark",
-        "leftClickAction": "openUI/ 4jmenu:not_available"
+        "leftClickSound": "4jmenu:sound.menu.fail"
       },
       "17": {
         "presetID": "4jmenu:button/generic:blank",
         "customModelData": "4j.ui.text.ui_scale",
-        "leftClickAction": "openUI/ 4jmenu:not_available"
+        "leftClickSound": "4jmenu:sound.menu.fail"
       },
       "72": {
         "presetID": "4jmenu:button/leavegame:visual"

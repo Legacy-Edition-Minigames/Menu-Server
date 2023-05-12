@@ -32,16 +32,16 @@
       },
       "18-24": {
         "presetID": "4jmenu:button/generic:blank",
-        "leftClickAction": "openUI/ 4jmenu:not_available"
+        "leftClickSound": "4jmenu:sound.menu.fail"
       },
       "25": {
         "presetID": "4jmenu:button/generic:standard_dark",
-        "leftClickAction": "openUI/ 4jmenu:not_available"
+        "leftClickSound": "4jmenu:sound.menu.fail"
       },
       "26": {
         "presetID": "4jmenu:button/generic:blank",
         "customModelData": "4j.ui.text.user_settings",
-        "leftClickAction": "openUI/ 4jmenu:not_available"
+        "leftClickSound": "4jmenu:sound.menu.fail"
       },
       "27-33": {
         "presetID": "4jmenu:button/generic:blank",

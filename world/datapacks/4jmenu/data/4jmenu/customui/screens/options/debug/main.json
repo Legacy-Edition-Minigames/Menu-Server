@@ -32,16 +32,16 @@
       },
       "18-24": {
         "presetID": "4jmenu:button/generic:blank",
-        "leftClickAction": "command/ loadresource menu"
+        "leftClickAction": "command/ loadresource blank"
       },
       "25": {
         "presetID": "4jmenu:button/generic:standard",
-        "leftClickAction": "command/ loadresource menu"
+        "leftClickAction": "command/ loadresource blank"
       },
       "26": {
       "presetID": "4jmenu:button/generic:text",
         "customModelData": "4j.ui.text.reload_resources",
-        "leftClickAction": "command/ loadresource menu"
+        "leftClickAction": "command/ loadresource blank"
       },
       "73-78": {
         "presetID": "4jmenu:button/generic:blank",
