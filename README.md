@@ -1,6 +1,6 @@
 # Legacy Edition Minigames Menu Server
 
-This is a frontend for connecting to the Legacy Edition Minigames ports/remakes I have created.
+This is a frontend for connecting to the Legacy Edition Minigames ports/remakes
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.19.4-80ba42?style=for-the-badge) ![License](https://img.shields.io/github/license/DBTDerpbox/lem-menu-server?style=for-the-badge) ![Last Commit](https://img.shields.io/github/last-commit/dbtderpbox/lem-menu-server?style=for-the-badge)
 
